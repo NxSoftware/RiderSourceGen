@@ -1,0 +1,61 @@
+riderModule.iml
+/_ReSharper.Caches/
+
+# Autosave files
+*~
+
+# build
+[Oo]bj/
+[Bb]in/
+packages/
+
+# globs
+Makefile.in
+*.DS_Store
+*.sln.cache
+*.suo
+*.cache
+*.pidb
+*.userprefs
+*.usertasks
+config.log
+config.make
+config.status
+aclocal.m4
+install-sh
+autom4te.cache/
+*.user
+*.tar.gz
+tarballs/
+test-results/
+Thumbs.db
+.vs/
+
+# Mac bundle stuff
+*.dmg
+*.app
+
+# resharper
+*_Resharper.*
+*.Resharper
+
+# dotCover
+*.dotCover
+
+# sqlite
+*.sqlite
+
+# Node
+node_modules/
+
+.idea/
+
+# VS Code
+**/.vscode/settings.json
+**/.vscode/*.log
+
+# Certificates
+*.p12
+
+# Mono
+mono_crash*.json
